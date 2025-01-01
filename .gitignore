@@ -20,9 +20,8 @@ yarn-error.log*
 .env.*.local
 
 # Ignore database files
-*.sql
-*.sqlite
-*.db
+# *.sqlite
+# *.db
 
 # Ignore backup files
 *.bak
